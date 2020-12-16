@@ -1,5 +1,7 @@
 {
   "name": "devdaticExplorer",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
